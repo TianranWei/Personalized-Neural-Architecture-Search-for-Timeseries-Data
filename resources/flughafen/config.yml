@@ -1,0 +1,7 @@
+config:
+  feature_type: 1
+  prediction_offset: 288
+  time_column: [timestamp]
+  timestamp_regex: '%Y-%m-%d %H:%M:%S'
+  value_columns: []
+  class_column: value

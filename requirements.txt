@@ -1,0 +1,8 @@
+pandas==1.0.3
+numpy
+sklearn
+seaborn
+sklearn
+tqdm
+tensorflow==2.2.0
+PyYaml
